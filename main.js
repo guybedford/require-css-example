@@ -3,7 +3,6 @@ require.config({
     paths: {
         "require-css": "lib/require-css"
     },
-    optimize: "none",
     map: {
         "*": {
             "css": "require-css/css"
