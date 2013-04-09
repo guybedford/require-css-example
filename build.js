@@ -1,5 +1,5 @@
 ({
-    mainConfigFile: "main.js",
+    mainConfigFile: "config.js",
     baseUrl: ".",
     paths: {
         "requirejs": "lib/require"

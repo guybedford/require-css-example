@@ -1,0 +1,1 @@
+see https://github.com/guybedford/require-css/issues/63#issuecomment-16053514 for description
