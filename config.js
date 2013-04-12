@@ -1,11 +1,9 @@
 require.config({
     baseUrl: ".",
-    paths: {
-        "require-css": "lib/require-css"
-    },
     map: {
         "*": {
-            "css": "require-css/css"
+            "css": "lib/require-css/css",
+            "less": "lib/require-less/less"
         }
     }
-})
+});
